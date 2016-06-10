@@ -1,14 +1,14 @@
-layout_spectrum: 0.9235783671028912
-typography_spectrum: 0.09745583566837013
+layout_spectrum: 0.2076335286255926
+typography_spectrum: 0.6897620803210884
 color:
-  brandStrength: 0.14465998532250524
-  lightness: 0.12618220690637827
-  saturation: 0.9737334158271551
-  rhythmicContrast: 0.2850044067017734
+  brandStrength: 0.3992818638216704
+  lightness: 0.14926347509026527
+  saturation: 0.2942498098127544
+  rhythmicContrast: 0.10225342120975256
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
 name: GlobalOil.com
