@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-30T10:50:24.058Z'
+datePublished: '2016-07-30T10:51:10.450Z'
 sourcePath: _posts/2016-07-30-globaloilcom.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/45d9cc26-fc1c-4d03-bf52-8510f25b1a04.jpg
 author: []
 via: {}
-dateModified: '2016-07-30T10:50:23.824Z'
+dateModified: '2016-07-30T10:51:10.313Z'
 title: GlobalOil.com
 publisher: {}
 description: 'OIL: Cooking, Sun Tanning, Home Utility, Home Fuel, Automotive'
