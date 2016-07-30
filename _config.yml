@@ -1,4 +1,3 @@
-layout_spectrum: 0.2076335286255926
 typography_spectrum: 0.6897620803210884
 color:
   brandStrength: 0.3992818638216704
@@ -11,5 +10,7 @@ color:
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
+layout_spectrum: 0.2076335286255926
 name: GlobalOil.com
 title: OIL Around The World
+description: 'Automotive, Food, Sun Tanning, Home Fuel, Utility'
