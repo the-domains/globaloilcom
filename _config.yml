@@ -11,6 +11,8 @@ color:
     - '#92CDCF'
     - '#EEEFF7'
 layout_spectrum: 0.2076335286255926
+analytics:
+  google: UA-8909281-2
 name: GlobalOil.com
 title: OIL Around The World
 description: 'Automotive, Food, Sun Tanning, Home Fuel, Utility'
