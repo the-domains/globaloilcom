@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[OIL Around The World]]></title>
+        <description><![CDATA[OIL Around The World]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Jul 2016 04:24:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GlobalOil.com]]></title>
+            <description><![CDATA[<article><h1>GlobalOil.com</h1><p>Oil Around The World</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3aeee01-5eb8-44b1-bcf7-275e5d6aa034.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3aeee01-5eb8-44b1-bcf7-275e5d6aa034.jpg</link>
+            <guid isPermaLink="false">c81bf8fc-3cbe-4a72-8e04-cbf28f8f779a</guid>
+            <pubDate>Sat, 30 Jul 2016 04:23:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
